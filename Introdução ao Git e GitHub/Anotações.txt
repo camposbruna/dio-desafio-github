@@ -1,0 +1,28 @@
+Link para download do Git: https://git-scm.com/downloads
+O Git Bash é um terminal extendido para otimizar o uso do Git.
+
+COMANDOS NO TERMINAL
+Dir – Lista as pastas
+Cd – serve para acessar as pastas
+Cd / Acessa o c:
+Cd .. – retrocede um nível nas pastas
+Cls – limpar o terminal
+Tab – serve para autocompletar. Muito útil
+Mkdir – criar pasta (mkdir + nome da pasta a ser criada)
+Echo hello > hello.txt – criar documento
+Del + nome da pasta – deleta apenas os arquivos (não deleta a pasta)
+rmdir nome da pasta /S /Q – deleta a pasta e arquivos
+
+
+COMMIT
+Git add * - adiciona todos os documentos modificados
+Git commit -m “commit inicial”
+
+GERENCIAMENTO DE PASTAS
+pwd é usado para exibir o "diretório de trabalho atual"
+ls é usado para listar o conteúdo do diretório de trabalho atual. 
+cd ("Change Directory") para acessar pastas (cd + nome pasta/)
+Cd .. retorna pasta
+Git init – inicia o repositório
+Ls -a exibe arquivos ocultos
+Echo > nomedoarquivo.extensão – para criar novo arquivo
